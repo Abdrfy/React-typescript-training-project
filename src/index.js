@@ -6,4 +6,3 @@ import App from './App';
 const rootElement = document.getElementById("root");
 const root = ReactDOMClient.createRoot(rootElement)
 root.render(<App />)
-// ReactDom.render(<App />, document.getElementById('root'))
